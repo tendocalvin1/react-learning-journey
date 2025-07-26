@@ -57,7 +57,7 @@ As part of my mission to become a full-stack developer, I’m currently focusing
 
 ---
 
-## 📈 Goals for the Next 30 Days
+## 📈 Goals for the Next 45 Days
 
 - ✅ Build 5+ hands-on React projects
 - ✅ Master the fundamentals (props, state, hooks)
