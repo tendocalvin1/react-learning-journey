@@ -8,6 +8,7 @@ import FavouriteFoods from './FavouriteFoods.jsx';
 import QuoteCard from './QuoteCard.jsx';
 import GalleryCard from './GalleryCard.jsx';
 import Hobbies from './Hobbies.jsx';
+import Button from './Button/Button.jsx';
 
 
 
@@ -17,6 +18,7 @@ function App() {
     <>
     <Header></Header>
     <Food></Food>
+    <Button></Button>
     <QuoteCard></QuoteCard>
     <FavouriteFoods></FavouriteFoods>
     <HelloWorld></HelloWorld>
