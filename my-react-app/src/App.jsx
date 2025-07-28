@@ -9,6 +9,7 @@ import QuoteCard from './QuoteCard.jsx';
 import GalleryCard from './GalleryCard.jsx';
 import Hobbies from './Hobbies.jsx';
 import Button from './Button/Button.jsx';
+import Students from './Students.jsx';
 
 
 
@@ -26,6 +27,10 @@ function App() {
     <GalleryCard></GalleryCard>
     <Hobbies></Hobbies>
     <MyInfo></MyInfo>
+    <Students name ='Tendo Calvin' age={23} isStudent ={true}></Students>
+    <Students name ='Daniel Agger' age={40} isStudent ={false}></Students>
+    <Students name ='Todd Boehly' age={46} isStudent ={true}></Students>
+    <Students name ='Todd'></Students>
     <Card></Card>
     <Card></Card>
     <Card></Card>
